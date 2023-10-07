@@ -5,6 +5,11 @@
 4. Unzip it
 5. Run the lvns executable
   - optional: before running the exec, open config.json and add your cookie and the path to your users.txt file. This will make these settings permanent every time you lauch the executable
+6. Add the users you want to snipe links from to the users.txt file, simply copy their username (one per row)
+7. Make sure you either have Chrome or Chromium installed
+8. Click on `Launch Browser` on the ui after setting the cookie and location of the users file
+9. Use the `Start` and `Stop` buttons to start and stop the sniper
+10. Use the `Quit` button to fully with the program
 
 ### How to get the cookie
 #### Chrome
