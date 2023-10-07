@@ -14,7 +14,7 @@
 4. Press f12 on your keyboard
 5. On the top bar click on Application (if you don't see it the two arrows like this >> or make the sidebar wider)
 6. Click on the arrow next to cookies
-7. Click on the tab that should appear https://lovenselife.com/
+7. Click on the tab that should appear `https://lovenselife.com/`
 8. Copy the value of the cookie called `lovenseclub`
 
 #### Firefox
@@ -24,7 +24,7 @@
 4. Press f12 on your keyboard
 5. On the top bar click on Storage (if you don't see it the two arrows like this >> or make the sidebar wider)
 6. Click on the arrow next to cookies
-7. Click on the tab that should appear https://lovenselife.com/
+7. Click on the tab that should appear `https://lovenselife.com/`
 8. Copy the value of the cookie called `lovenseclub`
 
 ## To build your own
